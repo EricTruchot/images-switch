@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(102, 102, 102);
+}
+div {
+    display: flex;
+	justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+button {
+    height: 50px;
+    width: 120px;
+    border: 1px solid blanchedalmond;
+    border-radius: 5px;
+    background-color: rgb(59, 59, 59);
+    color: blanchedalmond;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
