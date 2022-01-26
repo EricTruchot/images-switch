@@ -10,13 +10,23 @@ div {
 button {
     height: 50px;
     width: 120px;
-    border: 1px solid blanchedalmond;
+    border: 1px solid rgb(255, 255, 255);
     border-radius: 5px;
     background-color: rgb(59, 59, 59);
-    color: blanchedalmond;
+    color: rgb(255, 255, 255);
 }
 img {
     display: block;
     margin: auto;
     border-radius: 15px;
+}
+#titre {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
 }
